@@ -1,0 +1,1 @@
+        # Reset the timer and increment the frame number.
